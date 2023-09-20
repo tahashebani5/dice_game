@@ -1,0 +1,32 @@
+body{
+    background-color: #35353F;
+}
+h1{
+   
+    text-align: center;
+    font-size: 9rem;
+    color: #45C398;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lobster Two', cursive;
+}
+.containar{
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 100px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+h2 {
+    text-align: center;
+    font-size: 2rem;
+    color: #45C398;
+    font-family: 'Indie Flower', cursive;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+}
